@@ -9,7 +9,7 @@ This readme document tells about how the thinking process was done to make it an
 
 The following Slide is the header to tell the user about the range of the products that are followed after it.
 # Slide:2
-![3](https://user-images.githubusercontent.com/31994579/66377544-6d22a580-e9cf-11e9-8c7e-7515029f8893.png)
+![3](https://user-images.githubusercontent.com/31994579/66378644-86c4ec80-e9d1-11e9-9366-744c8fa1f869.png)
 Add the following link in the Text section of the graphic https://flyrobe.com/niyoosh-grey-bell-sleeve-blouse-with-lehenga-dupatta/FRES17242#detailspage
 
 # Slide:3
