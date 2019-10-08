@@ -1,9 +1,10 @@
 # RentItBaeAssignment
 The following contains the assignment given by RentItBae
 
-The following is the assignment 1 about Instagram Stories 
+The following is the assignment 1 about Instagram Stories for the brand page
 Dimensions- 1920x1080
 This readme document tells about how the thinking process was done to make it and what all were the points taken in the consideration
+It has 5 slides to be arranged in the following order i tried to make it engaging for the users and considered the factors of Elegance yet Classic while making.
 # Slide:1
 ![1](https://user-images.githubusercontent.com/31994579/66377495-5aa86c00-e9cf-11e9-8399-ee82052e582d.png)
 
@@ -23,3 +24,9 @@ Add the following link in the Text section of the graphic https://flyrobe.com/he
 ![2](https://user-images.githubusercontent.com/31994579/66377543-6d22a580-e9cf-11e9-81aa-c6157d075110.png)
 Add the following link in the Text section of the graphic
 https://flyrobe.com/niyoosh-coral-pink-yellow-heavy-embroidered-lehenga-choli-with-dupatta/FRES15091#detailspage
+
+
+# Assignment 2
+The assignment contains the invitation to wedding event
+![poters](https://user-images.githubusercontent.com/31994579/66381088-4a47bf80-e9d6-11e9-85a7-bf303e212bcb.png)
+
